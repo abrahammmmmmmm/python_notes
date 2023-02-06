@@ -54,14 +54,14 @@ oRules for Python Variables:
 Example:
    # Legal variable names with different techniques & values
      myVar = 5          # camel case with int data type
-     MyVar = "Hanna"    # pascal case with str data type
-     my_var = 'Ruth'    # snake case with str data type
+     MyVar = "Abraham"    # pascal case with str data type
+     my_var = 'Aman'    # snake case with str data type
      _x = 5.7           # float
-     x2 = "Tsige"
+     x2 = "Abebe"
    # Illegal variable names
-     2x = "Hanna"
-     x- = 'Ruth'
-     x 2 = "Tsige"
+     2x = "Abraham"
+     x- = 'Aman'
+     x 2 = "Abebe"
 Unpack a Collection
 If there is a collection of values in a list, tuple etc. Python allows to extract the values into variables. This is called Unpacking.
 Example:
@@ -80,7 +80,7 @@ type() Function
 It's used to get the data type of a variable.
 Example:
   x = 5
-  y = "Hanna"
+  y = "Abraham"
   print(type(x))   # Prints <class 'int'>
   print(type(y))   # Prints <class 'str'>
 Output Variables
